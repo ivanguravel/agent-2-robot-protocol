@@ -62,7 +62,7 @@ python3 go2_real/go2_cli.py --sim sit
 
 Just write in the Cursor chat (Agent mode):
 
-> пройди 3 шага вперёд, повернись налево и сделай 1 шаг
+> 3 steps forward and 2 steps left
 
 The `go2-control` skill automatically translates natural language to CLI commands.
 
