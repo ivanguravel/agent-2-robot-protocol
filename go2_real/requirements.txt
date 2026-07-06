@@ -1,0 +1,8 @@
+# Unitree Go2 SDK (install from GitHub)
+# pip install unitree_sdk2py@git+https://github.com/unitreerobotics/unitree_sdk2_python.git
+#
+# Or clone and install locally:
+#   git clone https://github.com/unitreerobotics/unitree_sdk2_python.git
+#   cd unitree_sdk2_python && pip install .
+
+unitree_sdk2py @ git+https://github.com/unitreerobotics/unitree_sdk2_python.git
